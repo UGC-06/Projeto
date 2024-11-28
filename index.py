@@ -1,4 +1,3 @@
-# Lista de tarefas
 tarefas = []
 
 def exibir_menu():
