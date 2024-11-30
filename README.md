@@ -12,7 +12,7 @@ Este é um aplicativo simples de lista de tarefas desenvolvido em Python. Ele pe
 
 COMO USAR
 
-Copie o código do index.py e cole no jdoodle para poder utilizar a lista
+Copie o código do index.py, crie um projeto jdoodle em Python e cole o código para poder utilizar a lista.
 
 ----------------------------
 
